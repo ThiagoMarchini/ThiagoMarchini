@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Thiago Marchini.
+I'm Thiago Marchini.<br />
 I'm currently studying Full-Stack web development at Trybe.
 I consider myself a creative and open-minded person, who loves technology! Coding is a passion. Building the code from nothing and seeing the finished application running is a wonderful sensation!
 Languages and tools I use:
