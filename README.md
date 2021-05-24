@@ -24,7 +24,7 @@ Contact me: <br />
   <br />
 E-mail: thiago.enginer@gmail.com
 <br /><br />
-![Thiago Marchini's GitHub stats](https://github-readme-stats.vercel.app/api&username=thiagomarchini&count_private=true&show_icons=true)
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomarchini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ThiagoMarchini/ThiagoMarchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
