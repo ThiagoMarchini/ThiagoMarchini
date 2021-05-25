@@ -13,7 +13,7 @@ Languages and tools I use:<br />
 <br /><br />
 About me:<br />
 -Im 37 years old, married, with two children.<br />
--My favorite hobby is to be arround my family, playing with my kids.<br />
+-My favorite hobby is to be arround my family, and play with my kids.<br />
 -I absolutely adore cooking! did 1,5 years of Culinary School.<br />
 -Reading is another habbit: fiction, romance and programming, of course.<br />
 <br /><br />
