@@ -15,6 +15,12 @@ Languages and tools I use:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="max-width:100%;">
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="" style="max-width:100%;">
 <br /><br />
 About me:<br />
