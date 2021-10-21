@@ -2,7 +2,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/README.pt-br.md)
 <br />
 Hi there! 👋
-I'm Thiago Marchini.<br /><br />
+I'm Thiago Marchini and I'm currently open to work!<br /><br />
 I'm currently studying Full-Stack web development at Trybe.
 I consider myself a creative and open-minded person who loves technology! Coding is a passion. Building the code from nothing and seeing the finished application running is a wonderful sensation! Nowadays I'm also starting to build some simple hardware projects on Arduino<br /><br />
 Languages and tools I use:<br />
