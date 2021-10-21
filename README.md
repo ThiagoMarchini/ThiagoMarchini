@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/README.pt-br.md)
+<br />
 Hi there! 👋
 I'm Thiago Marchini.<br /><br />
 I'm currently studying Full-Stack web development at Trybe.
