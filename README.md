@@ -41,7 +41,7 @@ About me:<br />
 <br /><br />
 Contact me: <br />
 <a href="https://www.linkedin.com/in/thiagomarchini/" rel="nofollow">
-   <img alt="LinkdeIn de Thiago Marchini" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+   <img alt="Thiago Marchini's LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
   <br />
 E-mail: thiago.enginer@gmail.com / thiago@msn.com
