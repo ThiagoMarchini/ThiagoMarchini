@@ -3,8 +3,8 @@
 <br />
 Hi there! 👋
 I'm Thiago Marchini and I'm currently open to work!<br /><br />
-I'm currently studying Full-Stack web development at Trybe.
-I consider myself a creative and open-minded person who loves technology! Coding is a passion. Building the code from nothing and seeing the finished application running is a wonderful sensation! Nowadays I'm also starting to build some simple hardware projects on Arduino<br /><br />
+I studied Full-Stack web development at Trybe.
+I consider myself a creative and open-minded person who loves technology! Coding is a passion. Building the code from nothing and seeing the finished application running is a wonderful sensation! Nowadays I'm also starting to build some simple hardware projects on Arduino and learning some VR development on Meta Quest.  <br /><br />
 Languages and tools I use:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
@@ -34,14 +34,14 @@ Languages and tools I use:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="max-width:100%;">
 <br /><br />
 About me:<br />
--Im 37 years old, married, with two children.<br />
+-Im 41 years old, married, with two children.<br />
 -My main hobbies are: playing with my kids, cooking, and making Arduino projects.<br />
 -I absolutely adore cooking! Did 1,5 years of Culinary School.<br />
 -Reading is another habbit: fiction, romance and programming, of course.<br />
 <br /><br />
 Contact me: <br />
 <a href="https://www.linkedin.com/in/thiagomarchini/" rel="nofollow">
-   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+   <img alt="LinkdeIn de Thiago Marchini" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
   <br />
 E-mail: thiago.enginer@gmail.com / thiago@msn.com
