@@ -3,8 +3,8 @@
 <br />
 Olá! 👋
 Eu sou Thiago Marchini.<br /><br />
-Atualmente estudo Desenvolvimento Web Full Stack na Trybe.
-Me considero uma pessoa criativa, que ama tecnologia, e está sempre buscando coisas novas para aprender. Codar é uma paixão, um modo de vida. Criar algo do zero, ver sua aplicação rodando é algo que traz uma sensação maravilhosa! Atualmente estou também começando a constriur alguns projetos simples de hardware e automação no Arduino.<br /><br />
+Estudei Desenvolvimento Web Full Stack na Trybe.
+Me considero uma pessoa criativa, que ama tecnologia, e está sempre buscando coisas novas para aprender. Codar é uma paixão, um modo de vida. Criar algo do zero, ver sua aplicação rodando é algo que traz uma sensação maravilhosa! Atualmente estou também começando a constriur alguns projetos simples de hardware e automação no Arduino e aprendendo desenvolvimento VR no Meta Quest.<br /><br />
 Linguagens e ferramentas que eu uso:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
@@ -34,14 +34,14 @@ Linguagens e ferramentas que eu uso:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="max-width:100%;">
 <br /><br />
 Sobre mim:<br />
--Tenho 37 anos, sou casado, e tenho 2 filhos, de 15 e 3 anos.<br />
+-Tenho 41 anos, sou casado, e tenho 2 filhos.<br />
 -Meus hobbys principais são: brincar com meus filhos, cozinhar, e criar novos projetos com Arduino.<br />
 -Eu adoro cozinhar! Fiz um ano e meio de Gastronomia (até a pandemia chegar).<br />
--Ler é um outro hábitot: ficção, romance e meuita programação e desenvolvimento, claro!<br />
+-Ler é um outro hábito: ficção, romance e meuita programação e desenvolvimento, claro!<br />
 <br /><br />
 Entre em contato comigo: <br />
 <a href="https://www.linkedin.com/in/thiagomarchini/" rel="nofollow">
-   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+   <img alt="LinkdeIn de Thiago Marchini" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
   <br />
 E-mail: thiago.enginer@gmail.com / thiago@msn.com
