@@ -4,7 +4,7 @@
 Olá! 👋
 Eu sou Thiago Marchini.<br /><br />
 Estudei Desenvolvimento Web Full Stack na Trybe.
-Me considero uma pessoa criativa, que ama tecnologia, e está sempre buscando coisas novas para aprender. Codar é uma paixão, um modo de vida. Criar algo do zero, ver sua aplicação rodando é algo que traz uma sensação maravilhosa! Atualmente estou também começando a constriur alguns projetos simples de hardware e automação no Arduino e aprendendo desenvolvimento VR no Meta Quest.<br /><br />
+Me considero uma pessoa criativa, que ama tecnologia, e está sempre buscando coisas novas para aprender. Codar é uma paixão, um modo de vida. Criar algo do zero, ver sua aplicação rodando é algo que traz uma sensação maravilhosa! Atualmente estou também começando a construir alguns projetos simples de hardware e automação no Arduino e aprendendo desenvolvimento VR no Meta Quest.<br /><br />
 Linguagens e ferramentas que eu uso:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
@@ -35,20 +35,20 @@ Linguagens e ferramentas que eu uso:<br />
 <br /><br />
 Sobre mim:<br />
 -Tenho 41 anos, sou casado, e tenho 2 filhos.<br />
--Meus hobbys principais são: brincar com meus filhos, cozinhar, e criar novos projetos com Arduino.<br />
+-Meus hobbies principais são: brincar com meus filhos, cozinhar, e criar novos projetos com Arduino.<br />
 -Eu adoro cozinhar! Fiz um ano e meio de Gastronomia (até a pandemia chegar).<br />
--Ler é um outro hábito: ficção, romance e meuita programação e desenvolvimento, claro!<br />
+-Ler é um outro hábito: ficção, romance e muita programação e desenvolvimento, claro!<br />
 <br /><br />
 Entre em contato comigo: <br />
 <a href="https://www.linkedin.com/in/thiagomarchini/" rel="nofollow">
-   <img alt="LinkdeIn de Thiago Marchini" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+   <img alt="LinkedIn de Thiago Marchini" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
   <br />
 E-mail: thiago.enginer@gmail.com / thiago@msn.com
 <br /><br />
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMarchini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats-kappa-rouge.vercel.app/api?username=ThiagoMarchini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-rouge.vercel.app/api/top-langs/?username=ThiagoMarchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ThiagoMarchini/ThiagoMarchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
