@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ThiagoMarchini/ThiagoMarchini/blob/main/README.pt-br.md)
 <br />
 Hi there! 👋
 I'm Thiago Marchini and I'm currently open to work!<br /><br />
