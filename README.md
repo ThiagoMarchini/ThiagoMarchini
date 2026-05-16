@@ -34,10 +34,10 @@ Languages and tools I use:<br />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" style="max-width:100%;">
 <br /><br />
 About me:<br />
--Im 41 years old, married, with two children.<br />
+-I'm 41 years old, married, with two children.<br />
 -My main hobbies are: playing with my kids, cooking, and making Arduino projects.<br />
--I absolutely adore cooking! Did 1,5 years of Culinary School.<br />
--Reading is another habbit: fiction, romance and programming, of course.<br />
+-I absolutely adore cooking! Did 1.5 years of Culinary School.<br />
+-Reading is another habit: fiction, romance and programming, of course.<br />
 <br /><br />
 Contact me: <br />
 <a href="https://www.linkedin.com/in/thiagomarchini/" rel="nofollow">
@@ -46,9 +46,9 @@ Contact me: <br />
   <br />
 E-mail: thiago.enginer@gmail.com / thiago@msn.com
 <br /><br />
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMarchini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats-kappa-rouge.vercel.app/api?username=ThiagoMarchini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-rouge.vercel.app/api/top-langs/?username=ThiagoMarchini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ThiagoMarchini/ThiagoMarchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
